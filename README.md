@@ -22,7 +22,7 @@ I'm always eager to learn new tools and methodologies to improve testing efficie
 
 ### 📊 GitHub Stats
 
-[![Panji WiryaP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panji824&show_icons=true&theme=dark&include_all_commits=true)
+[![Panji WiryaP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panji824\&hide=issues\&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panji824&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
