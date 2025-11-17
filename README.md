@@ -21,8 +21,8 @@ I'm always eager to learn new tools and methodologies to improve testing efficie
 ---
 
 ### 📊 GitHub Stats
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Panji824)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panji824&show_icons=true&theme=radical)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Panji824)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Panji824&layout=compact&theme=dark&hide=jupyter%20notebook)
 
 ---
