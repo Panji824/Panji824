@@ -29,7 +29,7 @@ I'm always eager to learn new tools and methodologies to improve testing efficie
 ### 🤝 Let's Connect!
 * **LinkedIn:** [https://www.linkedin.com/in/panji824]
 * **Email:** [panjiwiryapastika08@gmail.com]
-* **Website:** [https://www.panjiwirya.vercel.app]
+* **Website:** [https://panjiwirya.vercel.app]
 * **Slide Portfolio:** [https://www.canva.com/design/DAG55te_nbQ/uiWE9gKGjmbK6SBgp9K0yQ/view?utm_content=DAG55te_nbQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbb6ae67cd9]
 
 Feel free to explore my repositories and reach out if you have any questions, opportunities, or just want to chat about software quality!
